@@ -1,1 +1,1 @@
-web: bokeh serve — port=$PORT — allow-websocket-origin=prednplay.herokuapp.com — address=0.0.0.0 — use-xheaders main.py
+web: bokeh serve â€” port=$PORT â€” allow-websocket-origin=datexp.herokuapp.com â€” address=0.0.0.0 â€” use-xheaders main.py
