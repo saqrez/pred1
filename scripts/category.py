@@ -28,7 +28,6 @@ from os.path import dirname, join
 import numpy as np
 import pandas as pd
 import pandasql as ps
-import matplotlib.pyplot as plt
 import timeit
 import datetime
 from datetime import date
